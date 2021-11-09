@@ -15,6 +15,8 @@
 4. [Very serious and important disclaimer](#disclaimers)
 
 ## Programming Languages
+[Skip to next section](#things-i-cant-live-without)
+
 *ranked from most to least competent*
 1. Python
 2. Go
@@ -23,6 +25,8 @@
 5. Swift
 
 ## Things I can't live without
+[Skip to next section](#employment-timeline)
+
 ### Equipment
 * MacBook Air (M1, 2020)
 * OnePlus Nord N10 5G
@@ -61,6 +65,8 @@
   * IAP
 
 ## Employment Timeline
+[Skip to next section](#disclaimers)
+
 * Computer History Museum (Mountain View, CA)
   * Summer internship
   * 2015
