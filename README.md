@@ -3,11 +3,16 @@
   * they/them
 * Current Primary Focus:    
   * Quantum Computing (specifically Quantum Annealing with D-Wave)
-    * Better than QAOA or VQE
 * Current Secondary Focus:  
   * Artificial Intelligence
 * Current Employment:       
   * Junior Linux Systems Admin @vultr 
+
+## Table of Contents
+1. [Programming Languages](#programming-languages)
+2. [Things I can't live without](#things-i-cant-live-without)
+3. [Employment Timeline](#employment-timeline)
+4. [Very serious and important disclaimer](#disclaimers)
 
 ## Programming Languages
 *ranked from most to least competent*
