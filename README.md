@@ -30,6 +30,8 @@
 ### Equipment
 * MacBook Air (M1, 2020)
 * OnePlus Nord N10 5G
+* iPhone Pro 13
+* Apple Watch Series 7
 
 ### Software
 * PyCharm
