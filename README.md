@@ -32,9 +32,11 @@
 
 ### Equipment
 * MacBook Air (M1, 2020)
+* ThinkPad X1 Carbon Gen 9 *work-issued laptop*
 * OnePlus Nord N10 5G
-* iPhone Pro 13
-* Apple Watch Series 7
+* iPhone 13 Pro
+* Apple Watch Series 7 45mm
+* AirPods Pro
 
 ### Software
 * PyCharm
@@ -63,6 +65,12 @@
       * D-Wave DW_2000Q_6 (Aug 13, 2020-Sep 29, 2020)
 
 ### Cloud
+* Vultr
+  * Vultr Kubernetes Engine
+  * VC2 & High Frequency Instances
+  * Block Storage
+  * Load Balancers
+  * Private Networks
 * Google Cloud Platform
   * Google kubernetes engine
   * Cloud build
