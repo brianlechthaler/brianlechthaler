@@ -4,9 +4,12 @@
 * Current Primary Focus:    
   * Quantum Computing (specifically Quantum Annealing with D-Wave)
 * Current Secondary Focus:  
-  * Artificial Intelligence
+  * Artificial Intelligence 
 * Current Employment:       
-  * Junior Linux Systems Admin @vultr 
+  * Junior Linux Systems Admin @vultr *I also work with the fine folks in other departments there when not sysadmin-ing :)*
+* People very close to me
+  * [@theresaanna](https://github.com/theresaanna) *my primary partner <3*
+  * My two secondary partners, along with my friends and everyone else who makes my life as awesome as it is. You know who you are!
 
 ## Table of Contents
 1. [Programming Languages](#programming-languages)
