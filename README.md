@@ -6,7 +6,7 @@
 * Current Secondary Focus:  
   * Automated trading 
 * Current Employment:       
-  * Cloud Support Engineer @ CoreWeave
+  * Cloud Customer Success Engineer II @ Crusoe.ai
 
 ## Table of Contents
 1. [Programming Languages](#programming-languages)
@@ -92,7 +92,10 @@
   * left due to subpar compensation and company culture
 * CoreWeave
   * (Staff level) Cloud Support Engineer
-  * October 9th, 2023 - present
+  * October 9th, 2023 - August 21st, 2024
+* Crusoe Energy
+  * Cloud Customer Success Engineer
+  * September 23rd - present
 
 ## Disclaimer(s):
 * **Nothing that isn't a repository in an organization I work for represents any of my employer(s) or their views, in the past present and future.**
