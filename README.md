@@ -32,7 +32,7 @@
 
 ### Equipment
 * MacBook Air (M1, 2020)
-* MacBook Pro 16 inch (A2780) *work-issued laptop*
+* MacBook Pro 14 inch (A2992) *work-issued laptop*
 * OnePlus Nord N10 5G
 * iPhone 13 Pro
 * Apple Watch Series 7 45mm
