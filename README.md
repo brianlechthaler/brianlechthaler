@@ -95,7 +95,10 @@
   * October 9th, 2023 - August 21st, 2024
 * Crusoe Energy
   * Cloud Customer Success Engineer
-  * September 23rd - present
+  * September 23rd, 2024 - November 4th, 2024
+* Nebius
+  * Cloud Solutions Engineer
+  * January 29th, 2025 - Present
 
 ## Disclaimer(s):
 * **Nothing that isn't a repository in an organization I work for represents any of my employer(s) or their views, in the past present and future.**
