@@ -6,7 +6,7 @@
 * Current Secondary Focus:  
   * Automated trading 
 * Current Employment:       
-  * Cloud Customer Success Engineer II @ Crusoe.ai
+  * Cloud Solutions Architect @ Nebius
 
 ## Table of Contents
 1. [Programming Languages](#programming-languages)
