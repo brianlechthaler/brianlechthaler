@@ -39,6 +39,13 @@
 * AirPods Pro
 
 ### Software
+* SLURM
+* OpenMPI
+* Grafana
+* Knative
+* Terraform
+* HubSpot
+* Slack
 * PyCharm
 * GoLand
 * CLion
@@ -49,6 +56,15 @@
 * Kubernetes
 * Xcode
 
+### Key Technologies
+* NCCL
+* InfiniBand
+* CUDA
+* DCGM
+* OpenCL
+* ROCm
+* NFS
+
 ### Libraries
 * D-Wave Ocean SDK
 * Qiskit
@@ -56,6 +72,7 @@
 * TensorFlow
 * PyTorch
 * Diffusers
+* Transformers
 * Pandas
 * Numpy
 * Matplotlib
