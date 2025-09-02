@@ -107,13 +107,13 @@
   * November 15th, 2021 - October 4th, 2023 (about 2 years)
   * left due to subpar compensation and company culture
 * CoreWeave
-  * (Staff level) Cloud Support Engineer
+  * Cloud Support Engineer I 
   * October 9th, 2023 - August 21st, 2024
 * Crusoe Energy
-  * Cloud Customer Success Engineer
+  * Cloud Customer Success Engineer II
   * September 23rd, 2024 - November 4th, 2024
 * Nebius
-  * Cloud Solutions Engineer
+  * Cloud Solutions Architect
   * January 29th, 2025 - Present
 
 ## Disclaimer(s):
