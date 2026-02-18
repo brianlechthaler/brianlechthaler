@@ -115,7 +115,7 @@
 * Nebius
   * Cloud Solutions Architect
   * January 29th, 2025 - September 15th, 2025
- * The San Francisco Compute Company
+* The San Francisco Compute Company
   * Founding Solutions Architect
   * October 21st - Present 
 
