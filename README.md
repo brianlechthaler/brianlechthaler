@@ -6,7 +6,7 @@
 * Current Secondary Focus:  
   * Automated trading 
 * Current Employment:       
-  * Cloud Solutions Architect @ Nebius
+  * Solutions Architect @ SFCompute
 
 ## Table of Contents
 1. [Programming Languages](#programming-languages)
