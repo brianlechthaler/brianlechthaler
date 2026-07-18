@@ -1,10 +1,6 @@
 # Brian Lechthaler
 * Pronouns: 
   * they/them
-* Current Primary Focus:    
-  * Large Language Models and Image Generation
-* Current Secondary Focus:  
-  * Automated trading 
 * Current Employment:       
   * Solutions Architect @ Megaport/Latitude.sh
 
