@@ -96,6 +96,20 @@
   * Cloud build
   * Compute engine
   * IAP
+ * Nebius
+  * Token Factory
+  * Kubernetes
+  * Soperator (I contributed to this!)
+  * VMs
+ * SFCompute
+  * VMs
+ * Brev
+  * Launchables
+  * VMs
+ * Vultr
+  * VMs
+  * VKE
+  * Cloud GPU (I contributed to this!)    
  * CoreWeave
   * Kubernetes
   * VirtualServers
