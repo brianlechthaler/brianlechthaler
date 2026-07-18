@@ -61,6 +61,10 @@
 * Xcode
 
 ### Key Technologies
+* Agents
+* Skills
+* LLMs
+* IaC
 * NCCL
 * InfiniBand
 * CUDA
