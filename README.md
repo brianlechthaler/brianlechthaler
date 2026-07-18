@@ -6,7 +6,7 @@
 * Current Secondary Focus:  
   * Automated trading 
 * Current Employment:       
-  * Solutions Architect @ SFCompute
+  * Solutions Architect @ Megaport/Latitude.sh
 
 ## Table of Contents
 1. [Programming Languages](#programming-languages)
@@ -18,14 +18,15 @@
 [Skip to next section](#things-i-cant-live-without)
 
 *ranked from most to least competent*
-1. Python
-2. C++
-3. Go
-4. JavaScript
-5. C
-6. Swift
-7. Mojo
-8. APL (just for fun)
+1. Rust
+2. Python
+3. C++
+4. Go
+5. JavaScript
+6. C
+7. Swift
+8. Mojo
+9. APL (just for fun)
 
 ## Things I can't live without
 [Skip to next section](#employment-timeline)
@@ -38,6 +39,10 @@
 * AirPods Pro
 
 ### Software
+* Cursor
+* OpenCode
+* Ollama
+* vLLM
 * SLURM
 * OpenMPI
 * Grafana
@@ -117,7 +122,10 @@
   * January 29th, 2025 - September 15th, 2025
 * The San Francisco Compute Company
   * Founding Solutions Architect
-  * October 21st - Present 
+  * October 21st - April 20th
+* Megaport / Latitude.sh
+  * Solutions Architect
+  * July 6th - Present 
 
 ## Disclaimer(s):
 * **Nothing that isn't a repository in an organization I work for represents any of my employer(s) or their views, in the past present and future.**
