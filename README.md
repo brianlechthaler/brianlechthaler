@@ -33,6 +33,11 @@
 * iPhone 13 Pro
 * Apple Watch Series 7 45mm
 * AirPods Pro
+* 2022 overkill PC
+ * Liquid cooled 3090Ti
+ * Liquid cooled 12900KS
+ * 64GB DDR5
+ * Built Fall 2022
 
 ### Software
 * Cursor
@@ -81,6 +86,7 @@
 * Numpy
 * Matplotlib
 * llama-cpp
+* vLLM
 
 ### Quantum
 * Annealing
