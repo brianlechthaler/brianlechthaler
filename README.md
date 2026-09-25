@@ -97,28 +97,28 @@
 
 ### Cloud
 * Google Cloud Platform
-  * Google kubernetes engine
-  * Cloud build
-  * Compute engine
-  * IAP
+   * Google kubernetes engine
+   * Cloud build
+   * Compute engine
+   * IAP
  * Nebius
-  * Token Factory
-  * Kubernetes
-  * Soperator (I contributed to this!)
-  * VMs
+   * Token Factory
+   * Kubernetes
+   * Soperator (I contributed to this!)
+   * VMs
  * SFCompute
-  * VMs
+   * VMs
  * Brev
-  * Launchables
-  * VMs
+   * Launchables
+   * VMs
  * Vultr
-  * VMs
-  * VKE
-  * Cloud GPU (I contributed to this!)    
+   * VMs
+   * VKE
+   * Cloud GPU (I contributed to this!)    
  * CoreWeave
-  * Kubernetes
-  * VirtualServers
-  * GPUs 
+   * Kubernetes
+   * VirtualServers
+   * GPUs 
 
 ## Employment Timeline
 [Skip to next section](#disclaimers)
